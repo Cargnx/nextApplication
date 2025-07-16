@@ -3,10 +3,7 @@ import Header from "@/components/layout/Header"
 
 export default function Home() {
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen gap-16">
-
-      <Header/>
-
+    <div className="font-sans flex items-center justify-items-center min-h-screen gap-16">
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
