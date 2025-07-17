@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-      <header className="bg-white w-screen">
+      <header className="bg-white w-screen sticky top-0">
         <div className="py-4 flex items-center justify-around">
           <h1 className="text-xl text-black">HELLO WORLD</h1>
 
