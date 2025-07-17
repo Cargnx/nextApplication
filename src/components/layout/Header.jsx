@@ -21,9 +21,9 @@ const Header = () => {
 
           <div className="flex items-center">
             {/*Add night/light mode in the future*/}
-            <img src="/icons/moon-regular.svg" alt="Moon svg icon" className="h-6"/>
+            <img src="/icons/Moon.svg" alt="Moon svg icon" className="h-6"/>
 
-            <img src="/icons/sun-regular.svg" alt="Sun svg icon" className="h-6"/>
+            <img src="/icons/Sun.svg" alt="Sun svg icon" className="h-6"/>
           </div>
         </div>
       </header>
