@@ -11,11 +11,17 @@ const Header = () => {
             <li className="hover:underline">
               <Link href="/">Home</Link>
             </li>
+            <li className="h-auto w-[1px] bg-black">
+
+            </li>
             <li className="hover:underline">
               <Link href="/about">About</Link>
             </li>
             <li className="hover:underline">
               <Link href="/settings">Settings</Link>
+            </li>
+            <li className="hover:underline">
+              <Link href="/calendar">Calendar</Link>
             </li>
           </ul>
 

@@ -5,5 +5,6 @@
 
 export const pageStatus = {
   about: false,
-  settings: false
+  settings: false,
+  calendar: true
 };
